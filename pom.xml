@@ -37,7 +37,7 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
         <version>3.3.0</version>
-        <packaging>war</packaging>
+<!--         <packaging>war</packaging> -->
         <configuration>
           <archive>
             <manifest>
